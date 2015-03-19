@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FeMainViewController.h
 //  FeCondomMenu
 //
 //  Created by Nghia Tran on 3/19/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FeMainViewController : UIViewController
 
 @end
-
